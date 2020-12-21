@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConexionBDonline</string>
+    <string name="hint_id">ID</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="btn_nuevo_alumno">Crear un nuevo Alumno</string>
+    <string name="btn_actualizar">Actualizar alumno</string>
+    <string name="btn_eliminar_alumno">Eliminar Alumno</string>
+</resources>
